@@ -1,7 +1,8 @@
 
 
 public class Rectangle implements Shape{
+    
     public void draw(){
-        System.out.print("rectangle");
+        System.out.print("rectangle "+name);
     }
 }
