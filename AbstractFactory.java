@@ -1,6 +1,6 @@
 
 
 public abstract class AbstractFactory{
-    abstract Color getColor(String Color);
-    abstract Shape getShape(String Shape);
+    abstract EthiopianFoodType getFoodType(String food);
+    abstract EthiopianFood getFood(String foodtype);
 }
