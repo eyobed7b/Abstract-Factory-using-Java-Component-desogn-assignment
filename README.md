@@ -11,5 +11,3 @@ When the client doesn’t need to know how the final product is actually created
 In this application, we are going to design a simple Ethiopian traditional food catering that implements an abstract design pattern that provides a variety of traditional food like dorowet,kitfo and shiro. Customers can order different delicious traditional food. Therefore, we will build a food factory to make different types of foods. The factory produces two types of food for each of the foods listed under the traditional food. This means the factory produces 6 different types of Ethiopia’s traditional food.
 
 The main method is in the AbstractFactoryApp class
-
-E:\book\4th year\Component Design\project\AbstractFactory\Abstract Factory.jpg
